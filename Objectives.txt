@@ -1,0 +1,8 @@
+What you'll learn
+You will learn how to use ChatGPT to automate coding tasks, streamline their workflow, and increase your coding efficiency.
+You will receive hands-on experience using ChatGPT to build coding projects and develop a deep understanding of how the tool works.
+You will learn how to use ChatGPT to fix broken programs.
+You will learn how to use ChatGPT to add new features to existing programs.
+You will learn how to use ChatGPT to write more elegant code.
+You will learn how to use ChatGPT to refactor existing code.
+You will learn how to use ChatGPT to write unit tests for your programs.
